@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hader0
-- 👀 I’m interested in Python & Anime
+- 👀 I’m interested in Web Development & Anime
 - 🌱 I’m currently immersed in a 10 month Full-Stack Web Development Bootcamp!
 
 <!---
